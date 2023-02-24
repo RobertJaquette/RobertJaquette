@@ -5,8 +5,8 @@
       value: Robert Jaquette
     - name: Languages
       value: English
-      - name: Languages
-      value: English
+      - name: Computer Languages/Programs
+      value: Python, Fortran, C / Matlab, Labview
 
 - title: Education
   type: time_table
