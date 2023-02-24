@@ -3,9 +3,9 @@
   contents:
     - name: Full Name
       value: Robert Jaquette
-    - name: Date of Birth
-      value: 15th August 1994
     - name: Languages
+      value: English
+      - name: Languages
       value: English
 
 - title: Education
@@ -15,9 +15,18 @@
       institution: University of Delaware, Newark, Delaware, USA
       year: 2017-
       description:
-        - Experimental Work concerning the ejection and transport of Inertial Marine Aerosols
+        - Experimental Work concerning the ejection and transport of inertial marine aerosols
+        - Advisor:Dr. Fabrice Veron
         
-        - title: Research Assistant
+         - title:  BS
+      institution: University of Delaware, Newark, Delaware, USA
+      year: 2013- 2017
+      description:
+       -  Double Major in Physics with a concentration in Astrophysics and Applied Mathematics
+       -  Observational research involving turbulence statistics in the Marine Atmospheric Boundary Layer
+       -  Theortical research modeling radiance forced gas cloud development 
+        
+        
           
             
 
