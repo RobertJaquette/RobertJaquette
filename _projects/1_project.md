@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
-importance: 1
+title: Cape Wind/IMPOWR
+description: An observational study of turbulence in the Marine Atmosphere Boundary Layer
+img: assets/img/Cape_Wind.jpg
+importance: 2
 category: work
 ---
 
