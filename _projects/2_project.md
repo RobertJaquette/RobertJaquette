@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sea Spray Dynamics
+title: Marine Aerosol Production
 description: Experimental Study involving the production and transport of inertial Marine Aerosols from breaking waves
 img: assets/img/3.jpg
 importance: 2
